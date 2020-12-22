@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2126354950
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6454093a48aeb794cbfc92fba24744d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: baef289f1b3f08e59ce75cc8e2eab828
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10737d59c3dd78245a876710ed198811, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20ec843bc856266429be6759ef8a269b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/BeInvitePanel/BeInvitePanel.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

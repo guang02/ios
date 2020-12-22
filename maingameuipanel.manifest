@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 3454764516
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0ec121ec6cd20a61ba86de6bc81295d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3da28a80fb13705f2a77280dc58b530
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2acdcd5a8804ea24c8b0a80ff5b82bd1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20ec843bc856266429be6759ef8a269b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f31354fd8be121e4bb8c5b9a02916d77, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/MainGameUIPanel/2hu.png
+- Assets/AssetBundles/MainGameUIPanel/1hu.png
+- Assets/AssetBundles/MainGameUIPanel/pdk_Sign_OffLine.png
+- Assets/AssetBundles/MainGameUIPanel/3zm.png
+- Assets/AssetBundles/MainGameUIPanel/1zm.png
+- Assets/AssetBundles/MainGameUIPanel/2zm.png
+- Assets/AssetBundles/MainGameUIPanel/TingItem.prefab
+- Assets/AssetBundles/MainGameUIPanel/3hu.png
+- Assets/AssetBundles/MainGameUIPanel/tiao.png
+- Assets/AssetBundles/MainGameUIPanel/tong.png
+- Assets/AssetBundles/MainGameUIPanel/wan.png
+- Assets/AssetBundles/MainGameUIPanel/MainGameUIPanel.prefab
+- Assets/AssetBundles/MainGameUIPanel/facai.png
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/uimajiang
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/uimajiangshow

@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1925128912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74af2e34b3944dc794cd0606a2ab6fcc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c0432cb69404ce9cbfa0b16f81044fd0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ae762f8e31cd2546a99a1a04a10b804, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/InvitationCodePanel/InvitationCodePanel.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

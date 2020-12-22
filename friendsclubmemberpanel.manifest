@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 3773198328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ad499a3ad6a3ad524b2f75d6c6e73f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2df31082f8661f25b607cfe00781f495
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c90fd93d997d1c458641649b18b4862, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25367d15713758642ad92be401a240a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa76ba1b9d92dc74d9d9692ce11e2a2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbef3d2c3df57b340b24452da9ab5538, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1986cf7e10054f940a5f865480137832, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a3e0aaf0bf62ef4980034747e711eea, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6210\u5458\u5217\u8868/sousuo.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6210\u5458\u5217\u8868/beijing.png"
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/flag3.png
+- Assets/AssetBundles/FriendsClubMemberPanel/MemberItem.prefab
+- Assets/AssetBundles/FriendsClubMemberPanel/dz.png
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/jine.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6210\u5458\u5217\u8868/shangkaung.png"
+- Assets/AssetBundles/FriendsClubMemberPanel/WayItem.prefab
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/flag1.png
+- Assets/AssetBundles/FriendsClubMemberPanel/PlayerDownScorePanel.prefab
+- Assets/AssetBundles/FriendsClubMemberPanel/FriendsClubMemberPanel.prefab
+- Assets/AssetBundles/FriendsClubMemberPanel/PlayerUpScorePanel.prefab
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/flag4.png
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/duizhang.png
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6210\u5458\u5217\u8868/sousuokuang.png"
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/zuzhang.png
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/titile.png"
+- Assets/AssetBundles/FriendsClubMemberPanel/zz.png
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/flag2.png
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/quanzhu.png
+- Assets/AssetBundles/FriendsClubMemberPanel/TeamItem.prefab
+- Assets/AssetBundles/FriendsClubMemberPanel/Flag/guanlizhe.png
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/playerupscorepanel

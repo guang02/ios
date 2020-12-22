@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1525322411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fc5d79593db354ef5d9eb3296cbbbef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43f6949f538aafa892af9592b4833044
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17eb520c3b705b5498800e5fa3a7326b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/JoinFriendsClubPanel/JoinFriendsClubPanel.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

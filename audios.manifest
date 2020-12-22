@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 3002202059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89d1beee6c78ae0041dca71de4a604e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c516f2a3b2b6b67ef759f6410a790acd
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_QiTuo.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_SiTiao.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_Hu.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_SiWan.mp3
+- Assets/AssetBundles/Audios/BGM/GameBGM2.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_SanTuo.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_JiuTiao.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_ErTiao.mp3
+- Assets/AssetBundles/Audios/BGM/GameReadyBGM.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_BaTuo.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_LiuTiao.mp3
+- Assets/AssetBundles/Audios/BGM/MainLobbyBGM.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_LiuTuo.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_JiuWan.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_JiuTuo.mp3
+- Assets/AssetBundles/Audios/BGM/GameBGM.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_YiTiao.mp3
+- Assets/AssetBundles/Audios/BGM/GameBGM3.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_QiWan.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice2.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_Gang.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_QiTiao.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice8.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice1.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice5.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice9.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_ZiMo.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_Peng.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_WuTuo.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice3.mp3
+- Assets/AssetBundles/Audios/BGM/FriendClubLobbyBGM.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_ErWan.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice7.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice10.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice6.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_SiTuo.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_BaTiao.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_WuWan.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_SanWan.mp3
+- Assets/AssetBundles/Audios/UI/Select.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_SanTiao.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_WuTiao.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_YiWan.mp3
+- Assets/AssetBundles/Audios/UI/UIOnClick.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_YiTuo.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_BaWan.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_LiuWan.mp3
+- Assets/AssetBundles/Audios/GirlAudioEffects/Girl_ErTuo.mp3
+- Assets/AssetBundles/Audios/GirlVoices/Girl_Voice4.mp3
+Dependencies: []

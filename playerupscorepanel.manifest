@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 305819326
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddddb2f219563c83581d3616138f44b9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e74ba580a7b8018ef834916ea20eab26
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbef3d2c3df57b340b24452da9ab5538, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/PlayerUpScorePanel/PlayerUpScorePanel.prefab
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/jine1.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/kuang.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/id.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/quxiao.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/shurukuang.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/title1.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/queding.png"
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/friendsclubmemberpanel

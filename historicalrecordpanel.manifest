@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2201469943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: baa5a1cdb8c1581c8d845774e825347e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3685da9244cb8d3a09b8276a5cda7e6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6601b3433e3de6e4083cd2c2aadeb167, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a0a37f447ff905438607d4b375f3dc7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 55d15eda563b4e64d9e5890cb56a8924, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/HistoricalRecordPanel/HistoricalRecordItem.prefab
+- Assets/AssetBundles/HistoricalRecordPanel/HistoricalRecordPanel.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4269009512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3e394f046a53c17d53b69711bfa85f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1ae6e26fb0b4d11fccd18da598542fa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/bakDesk07.png
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/majiang-gai02.png
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/Center_West.mat
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/majiang-gai04.png
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/bakDesk06.png
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/Center_North.mat
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/DeskOne.mat
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/TimeLeft.mat
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/majiang-gai01.png
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/TimeRight.mat
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/majiang-gai03.png
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/bakDesk05.png
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/DeskThree.mat
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/Center_East.mat
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/majiang-gai.png
+- Assets/Art/MaJiang/Models/Materials/MahjongDesk/Center_South.mat
+- Assets/Art/MaJiang/Models/Textures/MahjongDesk/bakDesk04.png
+Dependencies: []

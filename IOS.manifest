@@ -1,0 +1,238 @@
+ManifestFileVersion: 0
+CRC: 3048042626
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: registerpanel
+      Dependencies:
+        Dependency_0: common
+    Info_1:
+      Name: shoppanel
+      Dependencies:
+        Dependency_0: common
+    Info_2:
+      Name: playmodeselectpanel
+      Dependencies:
+        Dependency_0: common
+    Info_3:
+      Name: noticepanel
+      Dependencies: {}
+    Info_4:
+      Name: majiang
+      Dependencies: {}
+    Info_5:
+      Name: uimajiang
+      Dependencies: {}
+    Info_6:
+      Name: sharepanel
+      Dependencies: {}
+    Info_7:
+      Name: playmodeinfopanel
+      Dependencies:
+        Dependency_0: common
+    Info_8:
+      Name: mainlobbymenu
+      Dependencies:
+        Dependency_0: common
+    Info_9:
+      Name: gpspanel
+      Dependencies:
+        Dependency_0: common
+    Info_10:
+      Name: editoruserheadpanel
+      Dependencies: {}
+    Info_11:
+      Name: clubmanagerpanel
+      Dependencies:
+        Dependency_0: common
+    Info_12:
+      Name: exitpanel
+      Dependencies:
+        Dependency_0: common
+    Info_13:
+      Name: adjustteampanel
+      Dependencies:
+        Dependency_0: common
+        Dependency_1: playerupscorepanel
+    Info_14:
+      Name: dissolepanel
+      Dependencies:
+        Dependency_0: common
+    Info_15:
+      Name: createplayingmethodpanel
+      Dependencies:
+        Dependency_0: common
+    Info_16:
+      Name: servicepanel
+      Dependencies:
+        Dependency_0: common
+    Info_17:
+      Name: common
+      Dependencies: {}
+    Info_18:
+      Name: forgetpwdpanel
+      Dependencies:
+        Dependency_0: common
+    Info_19:
+      Name: tingpanel
+      Dependencies:
+        Dependency_0: uimajiang
+        Dependency_1: common
+        Dependency_2: uimajiangshow
+    Info_20:
+      Name: mainloginmenu
+      Dependencies: {}
+    Info_21:
+      Name: beinvitepanel
+      Dependencies:
+        Dependency_0: common
+    Info_22:
+      Name: historicalrecordpanel
+      Dependencies:
+        Dependency_0: common
+    Info_23:
+      Name: bindphonepanel
+      Dependencies:
+        Dependency_0: common
+    Info_24:
+      Name: signuptoreviewpanel
+      Dependencies:
+        Dependency_0: common
+    Info_25:
+      Name: userinformationpanel
+      Dependencies:
+        Dependency_0: common
+    Info_26:
+      Name: invitationcodepanel
+      Dependencies:
+        Dependency_0: common
+    Info_27:
+      Name: uimajiangshow
+      Dependencies:
+        Dependency_0: uimajiang
+    Info_28:
+      Name: gamechatpanel
+      Dependencies:
+        Dependency_0: common
+    Info_29:
+      Name: inverseratiopanel
+      Dependencies:
+        Dependency_0: common
+    Info_30:
+      Name: gameendpanel
+      Dependencies:
+        Dependency_0: common
+    Info_31:
+      Name: historicaldatapanel
+      Dependencies:
+        Dependency_0: common
+        Dependency_1: friendsclubmemberpanel
+    Info_32:
+      Name: settingpanel
+      Dependencies:
+        Dependency_0: common
+    Info_33:
+      Name: friendsclubpanel
+      Dependencies:
+        Dependency_0: common
+    Info_34:
+      Name: applyforjoinclubtip
+      Dependencies:
+        Dependency_0: common
+    Info_35:
+      Name: lua
+      Dependencies: {}
+    Info_36:
+      Name: offdutyfriendsclubpanel
+      Dependencies:
+        Dependency_0: clubmanagerpanel
+        Dependency_1: common
+    Info_37:
+      Name: friendsclubmemberpanel
+      Dependencies:
+        Dependency_0: common
+        Dependency_1: playerupscorepanel
+    Info_38:
+      Name: playerupscorepanel
+      Dependencies:
+        Dependency_0: common
+        Dependency_1: friendsclubmemberpanel
+    Info_39:
+      Name: maingameuipanel
+      Dependencies:
+        Dependency_0: uimajiang
+        Dependency_1: common
+        Dependency_2: uimajiangshow
+    Info_40:
+      Name: loginpanel
+      Dependencies:
+        Dependency_0: common
+    Info_41:
+      Name: joinroompanel
+      Dependencies:
+        Dependency_0: common
+    Info_42:
+      Name: gamesmallendpanel
+      Dependencies:
+        Dependency_0: uimajiang
+        Dependency_1: common
+    Info_43:
+      Name: tippanel
+      Dependencies:
+        Dependency_0: common
+    Info_44:
+      Name: cooperationpanel
+      Dependencies: {}
+    Info_45:
+      Name: audios
+      Dependencies: {}
+    Info_46:
+      Name: friendsclublobbypanel
+      Dependencies:
+        Dependency_0: common
+    Info_47:
+      Name: playbackpanel
+      Dependencies: {}
+    Info_48:
+      Name: closefriendsclubpanel
+      Dependencies:
+        Dependency_0: clubmanagerpanel
+        Dependency_1: common
+    Info_49:
+      Name: gamesettingpanel
+      Dependencies:
+        Dependency_0: common
+    Info_50:
+      Name: joinfriendsclubpanel
+      Dependencies:
+        Dependency_0: common
+    Info_51:
+      Name: cheatpanel
+      Dependencies:
+        Dependency_0: uimajiang
+        Dependency_1: common
+        Dependency_2: uimajiangshow
+    Info_52:
+      Name: playerdownscorepanel
+      Dependencies:
+        Dependency_0: common
+        Dependency_1: playerupscorepanel
+    Info_53:
+      Name: createfriendsclubpanel
+      Dependencies:
+        Dependency_0: common
+    Info_54:
+      Name: invitepanel
+      Dependencies:
+        Dependency_0: common
+    Info_55:
+      Name: editorplayingmethodnamepanel
+      Dependencies:
+        Dependency_0: common
+    Info_56:
+      Name: realnameauthenticationpanel
+      Dependencies:
+        Dependency_0: common
+    Info_57:
+      Name: majiangdesk
+      Dependencies: {}

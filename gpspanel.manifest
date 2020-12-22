@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3044655214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9e04a81a787dabee25ad8716d316a27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaaad1eaf4a6bc493233f9f10c2abcf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8ce0ed35b3b9ab4e97f9d07a718c7d9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/GPSPanel/GPSPanel.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

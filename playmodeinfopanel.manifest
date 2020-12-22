@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1595270623
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a9415ad3a438a3d9029528ce1bc5491
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 936fff5eedefa7dec0e8d6acafa540cc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce48afda6511a0343af124b4daeec62b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/PlayModeInfoPanel/PlayModeInfoPanel.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 3337450021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2f4c20a9eb721dd9f891f247836091d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cb174a237bf69ddbf90e0cffe9bb46e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ecbdad1f16d947498187f8a36d38b9f, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e22042aeb8e0db4d8a4810b10ccb919, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b91f94e7d976fe4b94e811787b9d7a1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/FriendsClubLobbyPanel/PlayerMethodItem.prefab
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_2_3.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_3_4.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/kuaisu.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_4_3.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_1_3.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_2_4.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_0_3.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_2_2.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_4_4.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/FriendsClubLobbyPanel.prefab
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_0_4.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_3_3.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_0_2.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_1_2.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_3_2.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/kuaisu1.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_1_4.png
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableItem.prefab
+- Assets/AssetBundles/FriendsClubLobbyPanel/TableStytle/table_4_2.png
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 1588751582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07b39ad6a5a46f6ba02a082ed5e9984c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62f1e54dfbf08c487f845e13b73ae45b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d100098129b2171478eddea36b7544e7, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2acdcd5a8804ea24c8b0a80ff5b82bd1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/Common/Images/WX.jpg
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u8BBE\u7F6E/guanbi.png"
+- "Assets/Art/UI/Lobby/\u5BA2\u670D\u754C\u9762/guanbi.png"
+- Assets/AssetBundles/Common/YouBiao.prefab
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u8BBE\u7F6E/shurukuang2.png"
+- "Assets/Art/UI/Lobby/\u52A0\u5165\u623F\u95F4/anniu.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6218\u961F\u5217\u8868/guanbi.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u754C\u9762/\u5BA1\u6838\u754C\u9762/reject.png"
+- Assets/AssetBundles/Common/RedDotNode.prefab
+- "Assets/Art/UI/\u6E38\u620F\u754C\u9762/\u8BBE\u7F6E/close.png"
+- "Assets/Art/UI/Lobby/\u9000\u51FA\u754C\u9762/quxiao.png"
+- Assets/AssetBundles/Common/reddot.png
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u754C\u9762/\u5BA1\u6838\u754C\u9762/agree.png"
+- "Assets/Art/UI/Lobby/\u8BBE\u7F6E\u754C\u9762/head.png"
+- "Assets/Art/UI/Lobby/\u52A0\u5165\u623F\u95F4/shanchu.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6210\u5458\u5217\u8868/touxiang.png"
+- "Assets/Art/UI/Lobby/\u9000\u51FA\u754C\u9762/queding.png"
+- Assets/Art/UI/Lobby/money.png
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u8BBE\u7F6E/dy.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u8BBE\u7F6E/kuang1.png"
+- Assets/AssetBundles/Common/new.png
+- Assets/Art/UI/Lobby/card.png
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6218\u7EE9/\u6210\u5458\u6218\u7EE9/touming.png"
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u8BBE\u7F6E/title1.png"
+- Assets/AssetBundles/Common/fonts/SourceHanSansCN-Regular.otf
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6210\u5458\u5217\u8868/fanhui.png"
+- Assets/AssetBundles/Common/fonts/SourceHanSansCN-Medium.otf
+- "Assets/Art/UI/\u4EB2\u53CB\u5708\u5927\u5385\u754C\u9762/\u6210\u5458/\u6210\u5458\u5217\u8868/shang.png"
+Dependencies: []

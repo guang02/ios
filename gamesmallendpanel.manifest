@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2185235508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ce25471f9a26b3dbeedba07f75ca95d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac1ae7ee8ea5738d3d734bb3866c2323
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b4759f3f0ca39e44a8c27714b48bbb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20ec843bc856266429be6759ef8a269b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0ba161dbe48f555478b8a74119d75bd6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/GameSmallEndPanel/losetitle.png
+- Assets/AssetBundles/GameSmallEndPanel/sign_pc.png
+- Assets/AssetBundles/GameSmallEndPanel/pingtitle.png
+- Assets/AssetBundles/GameSmallEndPanel/UIGangBackItem.prefab
+- Assets/AssetBundles/GameSmallEndPanel/PlayerItem.prefab
+- Assets/AssetBundles/GameSmallEndPanel/MaJiangItem.prefab
+- Assets/AssetBundles/GameSmallEndPanel/UIPengItem.prefab
+- Assets/AssetBundles/GameSmallEndPanel/losebg.png
+- Assets/AssetBundles/GameSmallEndPanel/UIGangItem.prefab
+- Assets/AssetBundles/GameSmallEndPanel/TableMahjongItem.prefab
+- Assets/AssetBundles/GameSmallEndPanel/winbg.png
+- Assets/AssetBundles/GameSmallEndPanel/wintitle.png
+- Assets/AssetBundles/GameSmallEndPanel/liutitle.png
+- Assets/AssetBundles/GameSmallEndPanel/GameSmallEndPanel.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/uimajiang
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common

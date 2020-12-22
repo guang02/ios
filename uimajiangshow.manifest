@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 3080211390
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44981840eccc0eff93191076cdb82a63
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d61834ad649d0f2282e12c9938e22fdb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/UIMaJiangShow/UIMaJiangShow.prefab
+- "Assets/Art/UI/\u6E38\u620F\u754C\u9762/\u5F00\u59CB\u65F6/kuang.png"
+- Assets/AssetBundles/UIMaJiangShow/UIMaJiangList.prefab
+- Assets/AssetBundles/UIMaJiangShow/UIMaJiangShowMain.prefab
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/uimajiang

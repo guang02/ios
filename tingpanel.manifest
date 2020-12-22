@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 2201889187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03e69429d8ffd11b28837bd91a348213
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: efc38717da7a9a8b78bda3168af8169a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20ec843bc856266429be6759ef8a269b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae020a8c2c695d1479636d813ac9abbc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 907ece9e34fe07e41997d6ad8eb20a93, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/TingPanel/ting/ting_4.png
+- Assets/AssetBundles/TingPanel/ting/ting_1.png
+- Assets/AssetBundles/TingPanel/ting/ting_7.png
+- Assets/AssetBundles/TingPanel/ting/ting_5.png
+- Assets/AssetBundles/TingPanel/ting/ting_0.png
+- Assets/AssetBundles/TingPanel/ting/ting_2.png
+- Assets/AssetBundles/TingPanel/ting/ting_8.png
+- Assets/AssetBundles/TingPanel/Item.prefab
+- Assets/AssetBundles/TingPanel/ting/ting.png
+- Assets/AssetBundles/TingPanel/TingPanel.prefab
+- Assets/AssetBundles/TingPanel/zhang/ting_unit.png
+- Assets/AssetBundles/TingPanel/ting/ting_6.png
+- Assets/AssetBundles/TingPanel/fan/fan.png
+- Assets/AssetBundles/TingPanel/hu/hu.png
+- Assets/AssetBundles/TingPanel/ting/ting_9.png
+- Assets/AssetBundles/TingPanel/ting/ting_3.png
+Dependencies:
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/uimajiang
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/common
+- /Users/guang/Desktop/yaojimj/yaoji/AssetBundles/IOS/uimajiangshow

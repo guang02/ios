@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 206158427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c8f00f456086a1ec66c495d8521faa25
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundles/Lua/Tools.Lua.txt
+- Assets/AssetBundles/Lua/MessageManager.Lua.txt
+- Assets/AssetBundles/Lua/LoadManager.Lua.txt
+- Assets/AssetBundles/Lua/LuaUnityAction.Lua.txt
+- Assets/AssetBundles/Lua/UnityAPI.Lua.txt
+- Assets/AssetBundles/Lua/JsonUtility.Lua.txt
+- Assets/AssetBundles/Lua/TingItemController.Lua.txt
+- Assets/AssetBundles/Lua/InverseRatioPanelController.Lua.txt
+- Assets/AssetBundles/Lua/Loader.Lua.txt
+- Assets/AssetBundles/Lua/InvitePanelController.Lua.txt
+Dependencies: []

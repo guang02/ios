@@ -1,0 +1,135 @@
+ManifestFileVersion: 0
+CRC: 2785697437
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc6c34a34391eb8b6dc3ad02c79d829f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a555fddcd2bc34acbb174ff31e50aeb0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 889c8b7fdd5d5394988a0e6fb24dd6d4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/MaJiang/Models/Materials/Front/BaTiao.mat
+- Assets/Art/MaJiang/Models/Materials/Front/JiuTiao.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_1_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_29_.png
+- Assets/Art/MaJiang/Models/Materials/Front/Ju.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_16_.png
+- Assets/Art/MaJiang/Models/Materials/Front/WuTiao.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_2_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_12_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_13_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_8_.png
+- Assets/Art/MaJiang/Models/Materials/Front/YaoJiOld.mat
+- Assets/Art/MaJiang/Models/Materials/Front/Chun.mat
+- Assets/Art/MaJiang/Models/Materials/Front/WuTuo.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_34_.png
+- Assets/Art/MaJiang/Models/Materials/Front/SanTuo.mat
+- Assets/Art/MaJiang/Dice/diceAni.fbx
+- Assets/Art/MaJiang/Models/Materials/Front/QiTuo.mat
+- Assets/Art/MaJiang/Models/Materials/Front/ErWan.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_24_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_28_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_9_ laizi.png
+- Assets/Art/MaJiang/Models/Materials/Front/QiTiao.mat
+- Assets/Art/MaJiang/Models/Materials/Back/MajiangBackGreen.mat
+- Assets/Art/MaJiang/Dice/shaiziYoubiaoNor.png
+- Assets/Art/MaJiang/Models/Materials/Front/LiuTuo.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_25_.png
+- Assets/Art/MaJiang/Models/Materials/Front/JiuTuo.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_36_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_9_.png
+- Assets/Art/MaJiang/Models/Materials/Front/YiTuo.mat
+- Assets/Art/MaJiang/Models/Materials/Front/Zhong.mat
+- Assets/Art/MaJiang/Models/Materials/Front/QiWan.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_35_.png
+- Assets/Art/MaJiang/Models/Materials/Front/YaoJi.mat
+- Assets/Art/MaJiang/Models/Materials/Front/LiuWan.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_31_.png
+- Assets/Art/MaJiang/Models/Materials/Front/SanTiao.mat
+- Assets/Art/MaJiang/Models/Materials/Front/BaWan.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_30_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_23_.png
+- Assets/Art/MaJiang/Models/Materials/Front/ErTuo.mat
+- "Assets/Art/MaJiang/Models/FBX/Materials/\u9EBB\u5C06\u684C\uFF08\u6539\uFF0901.mat"
+- Assets/Art/MaJiang/Models/Materials/Front/WuWan.mat
+- Assets/Art/MaJiang/Dice.prefab
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_3_.png
+- Assets/Art/MaJiang/Dice/shaiziYoubiao.png
+- Assets/Art/MaJiang/Dice/dice.fbx
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_18_.png
+- Assets/Art/MaJiang/Models/Materials/Front/Lan.mat
+- Assets/Art/MaJiang/Models/Materials/Front/YiWan.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_7_.png
+- Assets/Art/MaJiang/Models/Materials/Front/SiTuo.mat
+- Assets/Art/MaJiang/Dice/DiceMat.mat
+- Assets/Art/MaJiang/Models/FBX/Materials/MahjongDeskMat.mat
+- Assets/Art/MaJiang/Models/FBX/Mahjong.fbx
+- Assets/Art/MaJiang/Mahjong.prefab
+- Assets/Art/MaJiang/Models/Materials/Front/SiTiao.mat
+- Assets/Art/MaJiang/Models/Materials/Front/Mei.mat
+- Assets/Art/MaJiang/Models/Materials/Front/Qiu.mat
+- Assets/Art/MaJiang/Models/Materials/Front/Kuang.mat
+- Assets/Art/MaJiang/Models/Materials/Front/LiuTiao.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_32_.png
+- Assets/Art/MaJiang/Models/Materials/Front/SiWan.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_0_.png
+- Assets/Art/MaJiang/Models/Materials/Front/Xia.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_10_.png
+- Assets/Art/MaJiang/Models/Materials/Front/JiuWan.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_37_.png
+- Assets/Art/MaJiang/Models/Materials/Back/mujiangDiffuseGreen.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_19_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_5_.png
+- Assets/Art/MaJiang/Models/Materials/Front/Zu.mat
+- Assets/Art/MaJiang/Models/Materials/Front/Dong.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_20_.png
+- Assets/Art/MaJiang/Models/Materials/Front/Fa.mat
+- Assets/Art/MaJiang/Models/Materials/Front/SanWan.mat
+- Assets/Art/MaJiang/Models/Materials/Front/ErTiao.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_15_.png
+- Assets/Art/MaJiang/Models/Materials/Front/BaTuo.mat
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_11_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_4_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_21_.png
+- Assets/Art/MaJiang/Dice/Animator/Dice.controller
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_27_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_14_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_26_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_6_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_22_.png
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_17_.png
+- Assets/Art/MaJiang/Models/FBX/MahjongDesk.FBX
+- Assets/Art/MaJiang/Models/Textures/Mahjong/mj_tex_33_.png
+Dependencies: []
